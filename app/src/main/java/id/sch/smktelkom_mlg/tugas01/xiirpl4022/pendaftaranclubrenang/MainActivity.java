@@ -162,6 +162,17 @@ public class MainActivity extends AppCompatActivity {
         } else {
             etBulan.setError(null);
         }
+
+        if (nama.isEmpty()) {
+            etAlamat.setError("Alamat belum diisi");
+            valid = false;
+        } else if (nama.length() < 3) {
+            etAlamat.setError("Alamat minimal 3 karakter");
+            valid = false;
+        } else {
+            etAlamat.setError(null);
+        }
+
         return valid;
     }
 
