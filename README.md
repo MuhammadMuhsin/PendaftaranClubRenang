@@ -8,21 +8,21 @@
 5. Kemampuan Berenang (Spinner + Text View)
 6. Gaya berenang apa saja yang dikuasaai (Check Box + Text View)
 
-##Tampilan Awal
-  ![Tampilan Awal](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/TampilanAwal.png)
+*##Tampilan Awal
+  *![Tampilan Awal](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/TampilanAwal.png)
 
-##Tampilan Form Belum Diisi 
-  ![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/Validasi.png)
-  ![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/Validasi1.png)
+*##Tampilan Form Belum Diisi 
+  *![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/Validasi.png)
+  *![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/Validasi1.png)
   
-##Tampilan Isi dan Validasi
-  ![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/ValidasiTanggal.png)
-  ![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/ValidasiBulan.png)
-  ![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/ValidasiTahun.png)
-  ![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/IsiData.png)
+*##Tampilan Isi dan Validasi
+  *![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/ValidasiTanggal.png)
+  *![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/ValidasiBulan.png)
+  *![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/ValidasiTahun.png)
+  *![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/IsiData.png)
 
-##Tampilan Hasil
-  ![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/HasilData.png)
+*##Tampilan Hasil
+  *![Screeshoot](https://github.com/MuhammadMuhsin/PendaftaranClubRenang/blob/master/HasilData.png)
 
 Link File Aplikasi : https://drive.google.com/open?id=0B2d0aRLe50zfaldCQV81ck9YdWc
 
